@@ -1,0 +1,14 @@
+D:\projetos\Free\Projeto_Pesquisa_Clinica\ProjetoPesquisaClinica.Aplications\bin\Debug\netcoreapp3.1\ProjetoPesquisaClinica.Aplications.deps.json
+D:\projetos\Free\Projeto_Pesquisa_Clinica\ProjetoPesquisaClinica.Aplications\bin\Debug\netcoreapp3.1\ProjetoPesquisaClinica.Aplications.dll
+D:\projetos\Free\Projeto_Pesquisa_Clinica\ProjetoPesquisaClinica.Aplications\bin\Debug\netcoreapp3.1\ProjetoPesquisaClinica.Aplications.pdb
+D:\projetos\Free\Projeto_Pesquisa_Clinica\ProjetoPesquisaClinica.Aplications\bin\Debug\netcoreapp3.1\ProjetoPequisaClinica.infrastructure.dll
+D:\projetos\Free\Projeto_Pesquisa_Clinica\ProjetoPesquisaClinica.Aplications\bin\Debug\netcoreapp3.1\ProjetoPesquisaClinica.Domain.dll
+D:\projetos\Free\Projeto_Pesquisa_Clinica\ProjetoPesquisaClinica.Aplications\bin\Debug\netcoreapp3.1\ProjetoPequisaClinica.infrastructure.pdb
+D:\projetos\Free\Projeto_Pesquisa_Clinica\ProjetoPesquisaClinica.Aplications\bin\Debug\netcoreapp3.1\ProjetoPesquisaClinica.Domain.pdb
+D:\projetos\Free\Projeto_Pesquisa_Clinica\ProjetoPesquisaClinica.Aplications\obj\Debug\netcoreapp3.1\ProjetoPesquisaClinica.Aplications.csprojAssemblyReference.cache
+D:\projetos\Free\Projeto_Pesquisa_Clinica\ProjetoPesquisaClinica.Aplications\obj\Debug\netcoreapp3.1\ProjetoPesquisaClinica.Aplications.AssemblyInfoInputs.cache
+D:\projetos\Free\Projeto_Pesquisa_Clinica\ProjetoPesquisaClinica.Aplications\obj\Debug\netcoreapp3.1\ProjetoPesquisaClinica.Aplications.AssemblyInfo.cs
+D:\projetos\Free\Projeto_Pesquisa_Clinica\ProjetoPesquisaClinica.Aplications\obj\Debug\netcoreapp3.1\ProjetoPesquisaClinica.Aplications.csproj.CoreCompileInputs.cache
+D:\projetos\Free\Projeto_Pesquisa_Clinica\ProjetoPesquisaClinica.Aplications\obj\Debug\netcoreapp3.1\ProjetoPesquisaClinica.Aplications.csproj.CopyComplete
+D:\projetos\Free\Projeto_Pesquisa_Clinica\ProjetoPesquisaClinica.Aplications\obj\Debug\netcoreapp3.1\ProjetoPesquisaClinica.Aplications.dll
+D:\projetos\Free\Projeto_Pesquisa_Clinica\ProjetoPesquisaClinica.Aplications\obj\Debug\netcoreapp3.1\ProjetoPesquisaClinica.Aplications.pdb

@@ -1,0 +1,12 @@
+D:\projetos\Free\Projeto_Pesquisa_Clinica\ProjetoPequisaClinica.infrastructure\bin\Debug\netcoreapp3.1\ProjetoPesquisaClinica.Domain.dll
+D:\projetos\Free\Projeto_Pesquisa_Clinica\ProjetoPequisaClinica.infrastructure\obj\Debug\netcoreapp3.1\ProjetoPequisaClinica.infrastructure.csprojAssemblyReference.cache
+D:\projetos\Free\Projeto_Pesquisa_Clinica\ProjetoPequisaClinica.infrastructure\obj\Debug\netcoreapp3.1\ProjetoPequisaClinica.infrastructure.AssemblyInfoInputs.cache
+D:\projetos\Free\Projeto_Pesquisa_Clinica\ProjetoPequisaClinica.infrastructure\obj\Debug\netcoreapp3.1\ProjetoPequisaClinica.infrastructure.AssemblyInfo.cs
+D:\projetos\Free\Projeto_Pesquisa_Clinica\ProjetoPequisaClinica.infrastructure\bin\Debug\netcoreapp3.1\ProjetoPequisaClinica.infrastructure.deps.json
+D:\projetos\Free\Projeto_Pesquisa_Clinica\ProjetoPequisaClinica.infrastructure\bin\Debug\netcoreapp3.1\ProjetoPequisaClinica.infrastructure.dll
+D:\projetos\Free\Projeto_Pesquisa_Clinica\ProjetoPequisaClinica.infrastructure\bin\Debug\netcoreapp3.1\ProjetoPequisaClinica.infrastructure.pdb
+D:\projetos\Free\Projeto_Pesquisa_Clinica\ProjetoPequisaClinica.infrastructure\bin\Debug\netcoreapp3.1\ProjetoPesquisaClinica.Domain.pdb
+D:\projetos\Free\Projeto_Pesquisa_Clinica\ProjetoPequisaClinica.infrastructure\obj\Debug\netcoreapp3.1\ProjetoPequisaClinica.infrastructure.csproj.CoreCompileInputs.cache
+D:\projetos\Free\Projeto_Pesquisa_Clinica\ProjetoPequisaClinica.infrastructure\obj\Debug\netcoreapp3.1\ProjetoPequisaClinica.infrastructure.csproj.CopyComplete
+D:\projetos\Free\Projeto_Pesquisa_Clinica\ProjetoPequisaClinica.infrastructure\obj\Debug\netcoreapp3.1\ProjetoPequisaClinica.infrastructure.dll
+D:\projetos\Free\Projeto_Pesquisa_Clinica\ProjetoPequisaClinica.infrastructure\obj\Debug\netcoreapp3.1\ProjetoPequisaClinica.infrastructure.pdb
