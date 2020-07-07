@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projetos\\Free\\Projeto_Pesquisa_Clinica\\ProjetoPesquisaClinica.Domain\\ProjetoPesquisaClinica.Domain.csproj": {}
+    "C:\\projetos\\Projeto_Pesquisa_Clinica\\ProjetoPesquisaClinica.Domain\\ProjetoPesquisaClinica.Domain.csproj": {}
   },
   "projects": {
-    "D:\\projetos\\Free\\Projeto_Pesquisa_Clinica\\ProjetoPesquisaClinica.Domain\\ProjetoPesquisaClinica.Domain.csproj": {
+    "C:\\projetos\\Projeto_Pesquisa_Clinica\\ProjetoPesquisaClinica.Domain\\ProjetoPesquisaClinica.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projetos\\Free\\Projeto_Pesquisa_Clinica\\ProjetoPesquisaClinica.Domain\\ProjetoPesquisaClinica.Domain.csproj",
+        "projectUniqueName": "C:\\projetos\\Projeto_Pesquisa_Clinica\\ProjetoPesquisaClinica.Domain\\ProjetoPesquisaClinica.Domain.csproj",
         "projectName": "ProjetoPesquisaClinica.Domain",
-        "projectPath": "D:\\projetos\\Free\\Projeto_Pesquisa_Clinica\\ProjetoPesquisaClinica.Domain\\ProjetoPesquisaClinica.Domain.csproj",
-        "packagesPath": "C:\\Users\\jeff_\\.nuget\\packages\\",
-        "outputPath": "D:\\projetos\\Free\\Projeto_Pesquisa_Clinica\\ProjetoPesquisaClinica.Domain\\obj\\",
+        "projectPath": "C:\\projetos\\Projeto_Pesquisa_Clinica\\ProjetoPesquisaClinica.Domain\\ProjetoPesquisaClinica.Domain.csproj",
+        "packagesPath": "C:\\Users\\ANONYMOUS\\.nuget\\packages\\",
+        "outputPath": "C:\\projetos\\Projeto_Pesquisa_Clinica\\ProjetoPesquisaClinica.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jeff_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ANONYMOUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

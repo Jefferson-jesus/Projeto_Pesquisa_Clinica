@@ -10,3 +10,14 @@ D:\projetos\Free\Projeto_Pesquisa_Clinica\ProjetoPequisaClinica.infrastructure\o
 D:\projetos\Free\Projeto_Pesquisa_Clinica\ProjetoPequisaClinica.infrastructure\obj\Debug\netcoreapp3.1\ProjetoPequisaClinica.infrastructure.csproj.CopyComplete
 D:\projetos\Free\Projeto_Pesquisa_Clinica\ProjetoPequisaClinica.infrastructure\obj\Debug\netcoreapp3.1\ProjetoPequisaClinica.infrastructure.dll
 D:\projetos\Free\Projeto_Pesquisa_Clinica\ProjetoPequisaClinica.infrastructure\obj\Debug\netcoreapp3.1\ProjetoPequisaClinica.infrastructure.pdb
+C:\projetos\Projeto_Pesquisa_Clinica\ProjetoPequisaClinica.infrastructure\bin\Debug\netcoreapp3.1\ProjetoPequisaClinica.infrastructure.deps.json
+C:\projetos\Projeto_Pesquisa_Clinica\ProjetoPequisaClinica.infrastructure\bin\Debug\netcoreapp3.1\ProjetoPequisaClinica.infrastructure.dll
+C:\projetos\Projeto_Pesquisa_Clinica\ProjetoPequisaClinica.infrastructure\bin\Debug\netcoreapp3.1\ProjetoPequisaClinica.infrastructure.pdb
+C:\projetos\Projeto_Pesquisa_Clinica\ProjetoPequisaClinica.infrastructure\bin\Debug\netcoreapp3.1\ProjetoPesquisaClinica.Domain.dll
+C:\projetos\Projeto_Pesquisa_Clinica\ProjetoPequisaClinica.infrastructure\bin\Debug\netcoreapp3.1\ProjetoPesquisaClinica.Domain.pdb
+C:\projetos\Projeto_Pesquisa_Clinica\ProjetoPequisaClinica.infrastructure\obj\Debug\netcoreapp3.1\ProjetoPequisaClinica.infrastructure.csprojAssemblyReference.cache
+C:\projetos\Projeto_Pesquisa_Clinica\ProjetoPequisaClinica.infrastructure\obj\Debug\netcoreapp3.1\ProjetoPequisaClinica.infrastructure.AssemblyInfoInputs.cache
+C:\projetos\Projeto_Pesquisa_Clinica\ProjetoPequisaClinica.infrastructure\obj\Debug\netcoreapp3.1\ProjetoPequisaClinica.infrastructure.AssemblyInfo.cs
+C:\projetos\Projeto_Pesquisa_Clinica\ProjetoPequisaClinica.infrastructure\obj\Debug\netcoreapp3.1\ProjetoPequisaClinica.infrastructure.csproj.CopyComplete
+C:\projetos\Projeto_Pesquisa_Clinica\ProjetoPequisaClinica.infrastructure\obj\Debug\netcoreapp3.1\ProjetoPequisaClinica.infrastructure.dll
+C:\projetos\Projeto_Pesquisa_Clinica\ProjetoPequisaClinica.infrastructure\obj\Debug\netcoreapp3.1\ProjetoPequisaClinica.infrastructure.pdb
